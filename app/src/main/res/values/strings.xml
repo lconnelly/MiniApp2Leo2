@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Recipes</string>
+    <string name="thumbnail">This is a thumbnail.</string>
+    <string name="get_started">Get Started</string>
+    <string name="preparation_time">Preparation Time</string>
+    <string name="serving_restriction">Serving Restriction</string>
+    <string name="diet_restriction">Diet Restriction</string>
+    <string name="search">search</string>
+</resources>
